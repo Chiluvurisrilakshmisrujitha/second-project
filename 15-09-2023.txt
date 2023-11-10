@@ -1,0 +1,8 @@
+mobile applications=android(native android/java),ios(native ios \swift),hybrid app(ios+android \react native,ionic framework,flutter)
+web applications=angular,react js,
+back end technologies
+
+API=application programing interface
+database=sql,my sql,mongo db,
+java,note js,dot net
+Angular=HTML,CSS,javascript /typescript
